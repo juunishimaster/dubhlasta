@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1894088810059812315
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1894088810059812312}
+  - component: {fileID: 1894088810059812313}
+  m_Layer: 0
+  m_Name: Lasta
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1894088810059812312
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1894088810059812315}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1894088810059812313
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1894088810059812315}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 25fb867d2049d41f597aefdd6b19f598, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  nameText: Lasta
+  nameColor: {r: 0.86666673, g: 0.5529412, b: 0.25490198, a: 1}
+  soundEffect: {fileID: 0}
+  portraits:
+  - {fileID: 21300000, guid: 40a54dbb4fdb6d94ab279f9c33b8f7bf, type: 3}
+  - {fileID: 21300000, guid: 7c2f879678deb084789a1f7bd99135b0, type: 3}
+  - {fileID: 21300000, guid: 7626c8158a392bf4cb89c4065e70d602, type: 3}
+  - {fileID: 21300000, guid: e05fa33304acf2b46b46c2c985c14922, type: 3}
+  - {fileID: 21300000, guid: 7167069273498974388a9fb5ee4a2a98, type: 3}
+  - {fileID: 21300000, guid: 6e2fdecabc076b74c9d3325baea1dd71, type: 3}
+  - {fileID: 21300000, guid: 198e8a8af33dfc246bd895e3975ab514, type: 3}
+  - {fileID: 21300000, guid: c80b439ea93e83645aad22c426c51c51, type: 3}
+  - {fileID: 21300000, guid: 7b6dfcc850cd32c4696a83c1080893b0, type: 3}
+  - {fileID: 21300000, guid: 6ee3b93b2f2a3f34886240110259d50d, type: 3}
+  portraitsFace: 0
+  setSayDialog: {fileID: 0}
+  description: 
